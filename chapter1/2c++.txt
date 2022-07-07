@@ -1,0 +1,6 @@
+#include<iostream.h>
+using namespace std;
+void main()
+{
+ cout<<"hello this is my first c++ program and i am happy how are you feeling ";
+}
